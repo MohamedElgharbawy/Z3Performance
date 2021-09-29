@@ -1,0 +1,20 @@
+(define-fun x__3 () Int
+  (- 1))
+(define-fun x__9 () Int
+  (- 267837008))
+(define-fun x__4 () Int
+  (- 1))
+(define-fun x__1 () Int
+  525623702)
+(define-fun x__6 () Int
+  462685695)
+(define-fun x__5 () Int
+  56958103)
+(define-fun x__7 () Int
+  2111817886)
+(define-fun x__0 () Int
+  (- 19492596))
+(define-fun x__8 () Int
+  196841759)
+(define-fun x__2 () Int
+  (- 17722368))

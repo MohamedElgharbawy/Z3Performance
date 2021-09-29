@@ -1,1 +1,50 @@
-timeout
+(define-fun x__3 () Int
+  (- 421))
+(define-fun x__12 () Int
+  149)
+(define-fun x__7 () Int
+  (- 336))
+(define-fun x__18 () Int
+  324)
+(define-fun x__17 () Int
+  (- 10))
+(define-fun x__16 () Int
+  (- 316))
+(define-fun x__4 () Int
+  276)
+(define-fun x__20 () Int
+  477)
+(define-fun x__21 () Int
+  267)
+(define-fun x__6 () Int
+  (- 70))
+(define-fun x__15 () Int
+  (- 216))
+(define-fun x__23 () Int
+  307)
+(define-fun x__2 () Int
+  (- 137))
+(define-fun x__19 () Int
+  324)
+(define-fun x__13 () Int
+  1)
+(define-fun x__14 () Int
+  237)
+(define-fun x__10 () Int
+  138)
+(define-fun x__1 () Int
+  194)
+(define-fun x__9 () Int
+  477)
+(define-fun x__24 () Int
+  344)
+(define-fun x__11 () Int
+  460)
+(define-fun x__8 () Int
+  (- 274))
+(define-fun x__5 () Int
+  202)
+(define-fun x__22 () Int
+  (- 179))
+(define-fun x__0 () Int
+  (- 157))

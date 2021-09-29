@@ -1,1 +1,10 @@
-timeout
+(define-fun x__0 () Int
+  (- 943))
+(define-fun x__4 () Int
+  2118)
+(define-fun x__3 () Int
+  (- 2744))
+(define-fun x__2 () Int
+  1091)
+(define-fun x__1 () Int
+  2218)
