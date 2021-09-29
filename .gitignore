@@ -1,3 +1,6 @@
+# Compiled notebook for terminal execution
+*.nbconvert.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
